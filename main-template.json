@@ -1,0 +1,19 @@
+{
+  "contact": "Jet Lag: The Discord - https://discord.gg/jetlag",
+  "templates": [],
+  "whitelist": [
+    {
+      "name": "JTLG Chief",
+      "url": "https://place-jltg.dbots.net/template/osuplace"
+    },
+    {
+      "name": "Dr Who",
+      "url": "https://raw.githubusercontent.com/asl97/Template-Editor/main/DrWhom.json"
+    },
+    {
+      "name": "Australia",
+      "url": "https://rentry.co/rxfax/raw"
+    }
+  ],
+  "blacklist": []
+}
