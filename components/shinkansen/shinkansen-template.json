@@ -1,0 +1,14 @@
+{
+    "faction": "Jet Lag: The Game",
+    "contact": "Jet Lag: The Discord - https://discord.gg/jetlag",
+    "templates": [
+        {
+            "name": "Shinkansen & BUCS",
+            "sources": [
+                "https://place-jtlg-overlays.dbots.net/components/shinkansen/shinkansen-bucs.png"
+            ],
+            "x": 516,
+            "y": 994
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "whitelist": [
+        {
+          "name": "Dr Who",
+          "url": "https://raw.githubusercontent.com/asl97/Template-Editor/main/DrWhom.json"
+        },
+        {
+          "name": "Australia",
+          "url": "https://rentry.co/rxfax/raw"
+        },
+        {
+          "name": "fsociety",
+          "url": "https://place-jtlg-overlays.dbots.net/hosted-allies/fsociety-template.json"
+        }
+      ]
+}

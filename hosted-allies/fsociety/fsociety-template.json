@@ -1,0 +1,12 @@
+{
+    "templates": [
+        {
+            "name": "fsociety",
+            "sources": [
+                "https://place-jtlg-overlays.dbots.net/hosted-allies/fsociety.png"
+            ],
+            "x": 516,
+            "y": 994
+        }
+    ]
+}

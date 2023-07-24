@@ -1,0 +1,14 @@
+{
+    "faction": "Jet Lag: The Game",
+    "contact": "Jet Lag: The Discord - https://discord.gg/jetlag",
+    "templates": [
+        {
+            "name": "Main Jetlag Logo",
+            "sources": [
+                "https://place-jtlg-overlays.dbots.net/components/logo/logo.png"
+            ],
+            "x": 1752,
+            "y": 812
+        }
+    ]
+}

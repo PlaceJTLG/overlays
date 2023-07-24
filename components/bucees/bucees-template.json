@@ -1,0 +1,14 @@
+{
+    "faction": "Jet Lag: The Game",
+    "contact": "Jet Lag: The Discord - https://discord.gg/jetlag",
+    "templates": [
+        {
+            "name": "Bucees",
+            "sources": [
+                "https://place-jtlg-overlays.dbots.net/components/bucees/bucees.png"
+            ],
+            "x": 885,
+            "y": 1691
+        }
+    ]
+}

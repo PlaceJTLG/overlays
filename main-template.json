@@ -7,12 +7,8 @@
       "url": "https://place-jltg.dbots.net/template/osuplace"
     },
     {
-      "name": "Dr Who",
-      "url": "https://raw.githubusercontent.com/asl97/Template-Editor/main/DrWhom.json"
-    },
-    {
-      "name": "Australia",
-      "url": "https://rentry.co/rxfax/raw"
+      "name": "Allies",
+      "url": "https://place-jtlg-overlays.dbots.net/allies.json"
     }
   ],
   "blacklist": []
